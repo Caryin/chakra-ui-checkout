@@ -73,7 +73,7 @@ const Cart = () => {
         </HStack>
         <HStack justifyContent="space-between">
           <Text color={secondaryTextColor}>Taxes</Text>
-          <Heading size="sm">$24.00</Heading>
+          <Heading size="sm">$28.00</Heading>
         </HStack>
       </VStack>
       <Divider />
